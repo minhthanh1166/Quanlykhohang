@@ -1,9 +1,7 @@
 Create Table TaiKhoan(
 TenDN varchar(10) primary key,
-MatKhau varchar(50) not null,
-Email varchar(50) 
+MatKhau varchar(50) not null, 
 );
-
 
 select * from Taikhoan
 
